@@ -1,0 +1,18 @@
+{
+  "name": "LOL ITEMS – League of Legends Eşya & Senaryo Simülatörü",
+  "short_name": "LOL ITEMS",
+  "description": "209 Eşya Veritabanı, Bağımsız Şampiyon/Koridor Seçimi ve Akıllı Senaryo Motoru (Offline Sürüm)",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#050a14",
+  "theme_color": "#050a14",
+  "orientation": "landscape",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 128 128'><rect width='128' height='128' rx='26' fill='%23050a14' stroke='%23c8aa6e' stroke-width='6'/><polygon points='64,16 104,40 92,92 64,112 36,92 24,40' fill='%2311203a' stroke='%230ac8b9' stroke-width='4'/><circle cx='64' cy='62' r='18' fill='%23f0e6d2'/></svg>",
+      "sizes": "128x128 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
