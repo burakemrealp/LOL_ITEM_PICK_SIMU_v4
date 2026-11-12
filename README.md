@@ -1,8 +1,8 @@
-# 🎮 LOL ITEMS – League of Legends Eşya & Akıllı Senaryo Simülatörü (2026)
+# LOL ITEMS – League of Legends Eşya & Akıllı Senaryo Simülatörü (2026)
 
 League of Legends oyuncuları için geliştirilmiş, **209 eşya** ve **173 şampiyon** içeren, tamamen istemci taraflı (Client-Side) ve **Offline (Çevrimdışı)** çalışabilen interaktif eğitim ve senaryo simülatörü.
 
-## ✨ Öne Çıkan Özellikler
+## Öne Çıkan Özellikler
 - **Çoklu Hesap & Lig Sistemi:** Netflix tarzı profil seçimi (en fazla 5 hesap), her hesaba özel izole LP/Lig ilerlemesi (Bronz IV -> Şampiyonluk).
 - **209 Eşyalı Gelişmiş Dükkan:** Türkçe ve İngilizce tam arama, çoklu stat filtreleme ve eksiksiz ikincil stat/pasif açıklamaları.
 - **Bağımsız Şampiyon ve Koridor Seçimi:** Önce 173 şampiyonluk havuzdan karakter seçimi, ardından serbest koridor (`TOP`, `JNG`, `MID`, `BOT`, `SUP`) belirleme.
@@ -12,7 +12,7 @@ League of Legends oyuncuları için geliştirilmiş, **209 eşya** ve **173 şam
   - Tekrar önleyici dinamik senaryo destesi.
 - **Tamamen Offline Çalışma:** İnternet olmadığında dahi Hextech SVG ikon motoru ve Service Worker önbelleklemesi ile kesintisiz deneyim.
 
-## 🚀 Çalıştırma Yöntemleri
+## Çalıştırma Yöntemleri
 1. **Tek Tıkla Masaüstü Uygulaması (Windows):** `Baslat_Offline_Uygulama.bat` dosyasına çift tıklayarak tarayıcı sekmeleri olmadan bağımsız uygulama penceresinde açabilirsiniz.
 2. **Doğrudan Tarayıcıda:** `index.html` dosyasına çift tıklayarak herhangi bir modern tarayıcıda (Chrome, Edge, Firefox, Safari) internet gerekmeksizin çalıştırabilirsiniz.
 
