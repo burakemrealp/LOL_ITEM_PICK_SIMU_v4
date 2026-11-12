@@ -8,7 +8,7 @@ League of Legends oyuncuları için geliştirilmiş, **209 eşya** ve **173 şam
 - **Bağımsız Şampiyon ve Koridor Seçimi:** Önce 173 şampiyonluk havuzdan karakter seçimi, ardından serbest koridor (`TOP`, `JNG`, `MID`, `BOT`, `SUP`) belirleme.
 - **Akıllı Senaryo Motoru (Local Intelligence Engine):**
   - Seçilen şampiyonun hasar ve build profiline (`ap_burst`, `ap_dps`, `ap_bruiser`, `ap_onhit`, `ad_crit`, `ad_onhit`, `ad_bruiser`, `ad_assassin`, `vanguard_tank`, `enchanter_sup`, `tank_sup`) %100 uyumlu eşya soruları.
-  - Soru metninde kopya (ipucu) içermeyen, doğrudan **canlı TAB skor tablosunu** ve kasmış rakiplerin eşya dizilimlerini analiz ettiren profesyonel yapı.
+  - Soru metninde kopya (ipucu) içermeyen, doğrudan **canlı skor tablosunu** ve kasmış rakiplerin eşya dizilimlerini analiz ettiren profesyonel yapı.
   - Tekrar önleyici dinamik senaryo destesi.
 - **Tamamen Offline Çalışma:** İnternet olmadığında dahi Hextech SVG ikon motoru ve Service Worker önbelleklemesi ile kesintisiz deneyim.
 
