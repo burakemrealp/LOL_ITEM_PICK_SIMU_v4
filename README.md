@@ -1,9 +1,9 @@
 # LOL ITEMS – League of Legends Eşya & Akıllı Senaryo Simülatörü (2026)
 
-League of Legends oyuncuları için geliştirilmiş, **209 eşya** ve **173 şampiyon** içeren, tamamen istemci taraflı (Client-Side) ve **Offline (Çevrimdışı)** çalışabilen interaktif eğitim ve senaryo simülatörü.
+League of Legends oyuncuları için geliştirilmiş, **209 eşya** ve **173 şampiyon** içeren, tamamen istemci taraflı (Client-Side) ve **Offline** çalışabilen interaktif eğitim ve senaryo simülatörü.
 
 ## Öne Çıkan Özellikler
-- **Çoklu Hesap & Lig Sistemi:** Netflix tarzı profil seçimi (en fazla 5 hesap), her hesaba özel izole LP/Lig ilerlemesi (Bronz IV -> Şampiyonluk).
+- **Çoklu Hesap & Lig Sistemi:** Netflix tarzı profil seçimi (en fazla 5 hesap), her hesaba özel izole LP/Lig ilerlemesi (Bronz IV -> Challenger).
 - **209 Eşyalı Gelişmiş Dükkan:** Türkçe ve İngilizce tam arama, çoklu stat filtreleme ve eksiksiz ikincil stat/pasif açıklamaları.
 - **Bağımsız Şampiyon ve Koridor Seçimi:** Önce 173 şampiyonluk havuzdan karakter seçimi, ardından serbest koridor (`TOP`, `JNG`, `MID`, `BOT`, `SUP`) belirleme.
 - **Akıllı Senaryo Motoru (Local Intelligence Engine):**
